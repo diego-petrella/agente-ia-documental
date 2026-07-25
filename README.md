@@ -117,3 +117,10 @@ GOOGLE_API_KEY=tu_api_key_aqui
 Bash
 python3 app.py
 Abre tu navegador e ingresa a http://localhost:5000.
+
+
+## 📷 Capturas de Pantalla
+
+<img width="1534" height="814" alt="Agente 2" src="https://github.com/user-attachments/assets/0a62824d-caea-4089-a379-d0016fc1f130" />
+<img width="1526" height="809" alt="Agente 1" src="https://github.com/user-attachments/assets/6c6ad76c-e001-465c-9acd-0191cebba3c3" />
+
